@@ -1,6 +1,10 @@
 # start to python day-1 code
-# starting code is basics
+# starting code is basics_learnt
 # main project code at end
+
+# Author: Rushikesh Dikey
+# Date: 03-03-2022
+
 '''
 # printing by taking input from user
 
@@ -24,9 +28,9 @@ b = temp
 print("a = " + a)
 print("b = " + b)
 
-#Band Name Generator
 '''
 
+#Band Name Generator
 print("Welcome to Band Name Generator")
 print("Enter few details to generate your Band_Name")
 
